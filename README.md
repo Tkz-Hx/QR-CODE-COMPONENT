@@ -1,6 +1,8 @@
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+
+![QR-CODE-TK](https://github.com/Tkz-Hx/QR-CODE-COMPONENT/assets/134191208/a039aad0-d6af-436b-b6f8-0e6815149598)
+
 
 ## Welcome! 👋
 
